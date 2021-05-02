@@ -1,2 +1,2 @@
 # SetBase
-Set a Octal, Decimal, or Hexadecimal base to find the int byte.
+Set a Octal or Hexadecimal base to find the Decimal Number.
